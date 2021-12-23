@@ -1,0 +1,62 @@
+body {
+  background: #263238;
+}
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 60px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.signout-btn {
+  position: absolute;
+  text-align: right;
+  top: 60px;
+  right: 40px;
+}
+
+.form {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.event-card {
+  border: 2px solid #2C3E50;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  background-color: transparent;
+}
+
+.link,
+.link:hover,
+.link:visited,
+.link:active {
+  color: #62e662;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+a {
+  color: #42b983;
+}
